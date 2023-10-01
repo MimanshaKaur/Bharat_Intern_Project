@@ -1,0 +1,38 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    background-attachment: fixed;
+    color: white;
+    overflow-x: hidden ;
+
+
+}
+
+.header{
+    width: 600px;
+    height: 87vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(./images/IN-en-20230925-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    padding: 10px 8%;
+    background-attachment: fixed;
+}
+.lang{
+    background-color: transparent;
+    margin-left: 250px;
+    border-radius: 2px;
+    font-size: 10px;
+    text-align: center;
+}
+.button{
+    background-color: red;
+    border-radius: 2px;
+    font-size: 10px;
+    width: 40px;
+    cursor: pointer;
+    display: block;
+    text-align: center;
+ 
+}
