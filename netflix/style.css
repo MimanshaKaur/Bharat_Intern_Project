@@ -16,14 +16,14 @@
     background-position: center;
     background-size: cover;
     position: absolute;
-    padding: 10px 8%;
+    padding: 7px 8%;
     background-attachment: fixed;
 }
 .lang{
     background-color: transparent;
     margin-left: 250px;
     border-radius: 2px;
-    font-size: 10px;
+    font-size: 5px;
     text-align: center;
 }
 .button{
@@ -34,5 +34,11 @@
     cursor: pointer;
     display: block;
     text-align: center;
+    margin-left: 315px;
+    margin-top: -14px;
  
+}
+.container{
+     height: fit-content;
+     margin-top: -40px;
 }
