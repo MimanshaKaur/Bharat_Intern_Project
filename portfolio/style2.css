@@ -15,25 +15,105 @@
     position: fixed;
 }
 .header{
-    margin-top: 30px;
-    margin-left: 50px;
+    margin-top: 40px;
+    margin-left: 90px;
     color: white;
     background-color: transparent;
 
 }
-.option{
-    display: flex;
+.pic1{
     background-color: transparent;
-    font-size: medium;
-    margin-top: -22px;
-    margin-left: 200px;
-
+    width: 50px;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: -4px;
+   
 }
-.pic{
+.pic2{
     background-color: transparent;
     width: 400px;
     height: 400px;
-    margin-top: 150px;
+    margin-top: 80px;
     margin-left: 850px;
     position: fixed;
+}
+.option{
+    
+    display: flex;
+    background-color: transparent;
+    color: white;
+    border-color: transparent;
+    font-weight: bold;
+    font-size: medium;
+    margin-top: -25px;
+    margin-left: 40px;
+    cursor: pointer;
+
+}
+.button {
+    transition-duration: 0.2s;
+  }
+  
+.button:hover {
+    color:#060022;
+    background-color: transparent;
+}
+.heading{
+    background-color: transparent;
+    font: small-caption;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: 90px;
+}
+.heading2{
+    background-color: transparent;
+    color:white;
+    font: small-caption;
+    font-size: 65px;
+    font-weight: bold;
+    margin-top: -70px;
+    margin-left: 90px;
+}
+.heading3{
+    background-color: transparent;
+    color: white;
+    font: small-caption;
+    font-size: 40px;
+    margin-top: -70px;
+    margin-left: 90px;
+}
+.heading4{
+    background-color: transparent;
+    color:beige;
+    font-size: 20px;
+    margin-top: -20px;
+    margin-left: 90px;
+    width: 500px;
+}
+.button2{
+    background-color:#060022;
+    border-color: transparent;
+    color: white;
+    border-radius: 16px;
+    font-size: 20px;
+    padding: 8px;
+    width: 200px;
+    margin-top: 80px;
+    margin-left: -240px;
+    position: fixed;
+    
+}
+.glow-button{
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0 5px 15px rgb(41, 133, 255);
+}
+.logo{
+    background-color: transparent ;
+    margin-left: 5px;
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    
+    
 }
