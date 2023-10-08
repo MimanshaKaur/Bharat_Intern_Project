@@ -3,9 +3,7 @@
     background-color: #060022;
     color: white;
 }
-
 .container{
-
     width: 88%;
     height: 650px;
     background-image: linear-gradient(359deg, #140d36, #1a84ad);
@@ -19,7 +17,6 @@
     margin-left: 90px;
     color: white;
     background-color: transparent;
-
 }
 .pic1{
     background-color: transparent;
@@ -27,7 +24,6 @@
     height: 50px;
     margin-left: 30px;
     margin-top: -4px;
-   
 }
 .pic2{
     background-color: transparent;
@@ -37,8 +33,7 @@
     margin-left: 850px;
     position: fixed;
 }
-.option{
-    
+.option{   
     display: flex;
     background-color: transparent;
     color: white;
@@ -48,12 +43,10 @@
     margin-top: -25px;
     margin-left: 40px;
     cursor: pointer;
-
 }
-.button {
+.button{
     transition-duration: 0.2s;
-  }
-  
+}
 .button:hover {
     color:#060022;
     background-color: transparent;
@@ -86,8 +79,8 @@
 .heading4{
     background-color: transparent;
     color:beige;
-    font-size: 20px;
-    margin-top: -20px;
+    font-size: 18px;
+    margin-top: -35px;
     margin-left: 90px;
     width: 500px;
 }
@@ -99,21 +92,18 @@
     font-size: 20px;
     padding: 8px;
     width: 200px;
-    margin-top: 80px;
-    margin-left: -240px;
+    margin-top: 95px;
+    margin-left: -235px;
     position: fixed;
-    
 }
-.glow-button{
+.glow-button:hover{
     color: rgba(255, 255, 255, 1);
     box-shadow: 0 5px 15px rgb(41, 133, 255);
+    cursor: pointer;
 }
 .logo{
     background-color: transparent ;
-    margin-left: 5px;
-    margin-top: 10px;
+    margin-top: 25px;
     width: 50px;
     height: 50px;
-    
-    
 }
