@@ -5,6 +5,7 @@
     background-attachment: fixed;
     color: white;
     overflow-x: hidden ;
+    zoom: inherit;
 }
 .header{
     width: 100%;
@@ -45,6 +46,7 @@
 .container{
     height: fit-content;
     margin-top: -41px;
+    margin-left: -100px;
 }
 .input-box{
     background-color: transparent;
@@ -55,7 +57,7 @@
     border-width: 0.5px;
     border-radius: 1.5px;
     margin-top: 6px;
-    margin-left: 115px;
+    margin-left: 165px;
     padding-left: 5px;
     border-color: gray;
 }
@@ -71,27 +73,27 @@
     display: block;
     border-color: transparent;
     text-align: center;
-    margin-left: 240px;
+    margin-left: 290px;
     margin-top: -19px;
     padding: 3px;
 }
 .heading{
-    margin-top: 74px;
-    margin-left: 72px;
+    margin-top: 80px;
+    margin-left: 120px;
     font: -webkit-small-control;
     font-weight: 900;
     font-size:  13.5px;
 }
 .heading2{
     margin-top: -14px;
-    margin-left: 154px;
+    margin-left: 200px;
     font: small-caption;
     font-weight: 400;
     font-size:  8px;
 }
 .heading3{
     margin-top: -10px;
-    margin-left: 107px;
+    margin-left: 150px;
     font: small-caption;
     font-weight: 400;
     font-size:  7px;
